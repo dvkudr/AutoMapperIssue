@@ -36,7 +36,7 @@ namespace AutoMapper_issue
     }
 
     [TestFixture]
-    public class MappingTests
+    public class Issue1
     {
         [TestCase("John", "Doe")]
         [TestCase(null, "Doe")]
